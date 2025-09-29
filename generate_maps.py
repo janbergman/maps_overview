@@ -105,7 +105,7 @@ def generate_maps_html(image_files):
     maps_html_content = f"""<!DOCTYPE html>
 <html>
 <head>
-    <title>My Personal Photo Map</title>
+    <title>My Maps</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
