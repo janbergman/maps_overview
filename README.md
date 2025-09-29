@@ -1,4 +1,5 @@
 You need to first install the Pillow library: pip3 install Pillow.
+
 then run the scrript: python generate_map.py
 
 After clicking the maps.html file, it will look like this when you hover with the mouse over one of the marks
